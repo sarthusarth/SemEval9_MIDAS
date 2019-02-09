@@ -29,10 +29,10 @@ Classification performance of the submissions will be evaluated on the basis of 
 
 Task Organizers
 
-Sapna Negi (Genesys Telecommunications Laboratory Inc, Galway, Ireland)
-Tobias Daudert (Insight Centre for Data Analytics, National University of Ireland Galway, Galway, Ireland)
-Paul Buitelaar ( Insight Centre for Data Analytics, National University of Ireland Galway, Galway, Ireland)
-Saeedeh Shekarpour (Computer Science Department, University of Dayton, Dayton, Ohio, USA )
+- Sapna Negi (Genesys Telecommunications Laboratory Inc, Galway, Ireland)
+- Tobias Daudert (Insight Centre for Data Analytics, National University of Ireland Galway, Galway, Ireland)
+- Paul Buitelaar ( Insight Centre for Data Analytics, National University of Ireland Galway, Galway, Ireland)
+- Saeedeh Shekarpour (Computer Science Department, University of Dayton, Dayton, Ohio, USA )
 
 
 5) Contact
