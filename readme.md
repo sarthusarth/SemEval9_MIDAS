@@ -1,16 +1,16 @@
 ========================
 
-#SemEval 2019 Task 9 - SubTask A - Suggestion Mining from Online Reviews and Forums
+# SemEval 2019 Task 9 - SubTask A - Suggestion Mining from Online Reviews and Forums
  
 https://competitions.codalab.org/competitions/19955
 
 ========================
 
-##1) DESCRIPTION
+## 1) DESCRIPTION
 
 This repository contains the source code of the models submitted by MIDAS team in SemEval 2019 Task 9 - SubTask. It was ranked 10th in the Task with F1 score 0.7011	
 
-##2) TASKS AND LABELS
+## 2) TASKS AND LABELS
 
 (A) Sub-task A: 
 
@@ -21,11 +21,11 @@ Under this subtask, participants will perform domain specific suggestion mining,
 
 Under this subtask, participants will perform cross domain suggestion mining, where train/development and test datasets will belong to separate domains. Train and development datasets will remain the same as subtask A, while the test dataset will belong to the domain of hotel reviews
 
-##3) Evaluation Metrics 
+## 3) Evaluation Metrics 
 
 Classification performance of the submissions will be evaluated on the basis of F-1 score for the positive class, i.e. the suggestion class. F1 score will range from 1 to 0.
 
-##4) CREDITS
+## 4) CREDITS
 
 Task Organizers
 
@@ -35,6 +35,6 @@ Task Organizers
 - Saeedeh Shekarpour (Computer Science Department, University of Dayton, Dayton, Ohio, USA )
 
 
-##5) Contact
+## 5) Contact
 
 https://groups.google.com/forum/#!forum/semeval-2019-task-9
